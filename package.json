@@ -1,0 +1,21 @@
+{
+  "name": "scogbackend",
+  "version": "1.0.0",
+  "description": "Summer Clown Olympic Games Backend",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit Pathak",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "expo-server-sdk": "^3.5.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.8",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "bluebird": "^3.7.2"
+  }
+}
